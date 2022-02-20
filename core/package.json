@@ -1,0 +1,31 @@
+{
+  "name": "uniswapfork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-Cnote/UniswapFork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-Cnote/UniswapFork/issues"
+  },
+  "homepage": "https://github.com/dev-Cnote/UniswapFork#readme",
+  "dependencies": {
+    "hardhat": "^2.8.4",
+    "hardhat-deploy": "^0.10.5"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4"
+  }
+}
