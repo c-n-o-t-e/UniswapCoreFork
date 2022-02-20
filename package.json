@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/dev-Cnote/UniswapFork#readme",
   "dependencies": {
-    "hardhat": "^2.8.4"
+    "hardhat": "^2.8.4",
+    "hardhat-deploy": "^0.10.5"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
